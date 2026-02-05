@@ -4,12 +4,12 @@ I’m a Software Engineering undergraduate at NSBM Green University, following t
 
 I’m passionate about Web and Mobile Application Development and currently learning full-stack development while building real-world projects.
 
-## 🚀 What I’m working on
+ 🚀 What I’m working on
 - Web applications using React and Node.js  
 - Mobile applications using Flutter  
 - Backend systems with MongoDB and Firebase  
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 - HTML, CSS, JavaScript  
 - React  
 - Flutter  
@@ -17,7 +17,7 @@ I’m passionate about Web and Mobile Application Development and currently lear
 - MongoDB  
 - Firebase  
 
-## 🌱 Currently Learning
+ 🌱 Currently Learning
 - Full-Stack Development  
 - API Integration  
 - UI/UX Design basics  
